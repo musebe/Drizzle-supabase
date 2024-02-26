@@ -50,6 +50,3 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
---- 
-
-Feel free to adjust the instructions further based on your project's specific details and requirements! Let me know if you need any further assistance.
