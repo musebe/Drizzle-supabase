@@ -1,5 +1,3 @@
-Certainly! Here's the complete README file:
-
 ---
 
 # Next.js Supabase Drizzle ORM Demo
@@ -18,7 +16,6 @@ This project showcases the integration of Next.js, a React framework, with Supab
 
 - [Supabase](https://supabase.io/)
 - [Drizzle ORM Documentation](https://orm.drizzle.team/)
-- [Drizzle ORM GitHub Issues](https://github.com/drizzle-team/drizzle-orm/issues/803)
 - [Drizzle ORM Kit Documentation](https://orm.drizzle.team/kit-docs/overview)
 
 ## Getting Started
